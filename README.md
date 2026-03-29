@@ -43,11 +43,13 @@ digital-literacy-project/
 │
 ├── task-1-presentation/
 │   ├── infographic.png                ← Exported infographic image
+│   └──Task1_Infographic_Brief_Notes   ← Brief Notes
 │
 ├── task-2-portfolio/
 │   ├── github.png             ← Screenshot of GitHub profile
 │   ├── linkedin.png           ← Screenshot of LinkedIn profile
 │   ├── researchgate.png       ← Screenshot of Researchgate profile
+│   └──Task2_Digital_Portfolio_Reflection_Notes  ← Reflection Notes of Task 2
 │
 ├── task-3-platforms/
 │   ├── codechef.png                   ← Screenshot of CodeChef profile
@@ -57,6 +59,7 @@ digital-literacy-project/
 │   ├── google-form-1.png              ← Screenshot of Digital Literacy Quiz (form view)
 │   ├── google-form-2.png              ← Screenshot of Digital Literacy Quiz (questions)
 │   └── google-sheet-response-view.png ← Screenshot of linked Google Sheet responses
+│   └──Task3_Platforms_Report          ← Notes for task 3
 │
 ├── task-4-email-etiquette/
 │   ├── email_1.txt                    ← Professional email to professor
@@ -138,9 +141,9 @@ Researched and wrote a detailed case study on **UPI/Online Payment Fraud**, a cy
 
 ## 🔗 Important Links
 
-- 📝 **Digital Literacy Quiz:** [https://forms.gle/MtrJMMb8FqQG4jD47](https://forms.gle/MtrJMMb8FqQG4jD47)
-- 🌐 **Cyber Crime Helpline:** 1930 *(24×7)*
-- 🌐 **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
+-  **Digital Literacy Quiz:** [https://forms.gle/MtrJMMb8FqQG4jD47](https://forms.gle/MtrJMMb8FqQG4jD47)
+-  **Cyber Crime Helpline:** 1930 *(24×7)*
+-  **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
 
 ---
 
