@@ -1,9 +1,9 @@
-# 🌐 CSE0001 – Digital Literacy Project
+# CSE0001 – Digital Literacy Project
 ### VIT Bhopal University | VITyarthi E-Learning Platform
 
 ---
 
-## 👤 Student Details
+## Student Details
 
 | Field | Details |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This repository is my **Digital Literacy Portfolio**, submitted as part of the CSE0001 course at VIT Bhopal University. The project is built around the scenario of being a **Student Digital Ambassador** — helping peers navigate the digital world safely, professionally, and effectively.
 
@@ -31,7 +31,7 @@ All work is documented here and in the written Project Report inside the `report
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 digital-literacy-project/
@@ -78,13 +78,13 @@ digital-literacy-project/
 ### Task 1 – Digital Literacy Awareness Infographic *(Module 1 | 20 Marks)*
 Created a one-page visual infographic using **Canva** covering the key pillars of Digital Literacy — including safe internet practices, professional online presence, and useful digital tools for students. The infographic is designed to be shared with batchmates as an awareness resource.
 
-📂 See: [`task-1-presentation/`](./task-1-presentation/)
+See: [`task-1-presentation/`](./task-1-presentation/)
 
 
 ### Task 2 – Student Digital Portfolio *(Module 2 | 20 Marks)*
 Set up professional accounts across three platforms: **GitHub**, **LinkedIn**, and **Researchgate**. Each profile has been filled with foundational academic details. This task helped establish a long-term digital presence that can grow alongside my academic and professional journey.
 
-📂 See: [`task-2-portfolio/`](./task-2-portfolio/)
+See: [`task-2-portfolio/`](./task-2-portfolio/)
 
 
 ### Task 3 – Coding & Collaboration Platforms *(Module 3 | 20 Marks)*
@@ -92,23 +92,23 @@ Completed a beginner challenge on **HackerRank** and built a **Digital Literacy 
 
 🔗 **Digital Literacy Awareness Quiz (Google Form):** [Take the Quiz](https://forms.gle/MtrJMMb8FqQG4jD47)
 
-📂 See: [`task-3-platforms/`](./task-3-platforms/)
+See: [`task-3-platforms/`](./task-3-platforms/)
 
 
 ### Task 4 – Professional Email & Etiquette Guide *(Module 4 | 20 Marks)*
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing interest in a summer internship. Also created a **Social Media Do's and Don'ts Checklist** for college students.
 
-📂 See: [`task-4-email-etiquette/`](./task-4-email-etiquette/)
+See: [`task-4-email-etiquette/`](./task-4-email-etiquette/)
 
 
 ### Task 5 – Cybercrime Awareness Case Study *(Module 5 | 20 Marks)*
 Researched and wrote a detailed case study on **UPI/Online Payment Fraud**, a cybercrime type highly relevant to college students in India. Also produced a prevention checklist with actionable safety tips including UPI-specific guidance and national reporting channels.
 
-📂 See: [`task-5-cybercrime/`](./task-5-cybercrime/)
+See: [`task-5-cybercrime/`](./task-5-cybercrime/)
 
 ---
 
-## 🛠️ Tools & Platforms Used
+## Tools & Platforms Used
 
 | Task | Tool / Platform | Link |
 |---|---|---|
@@ -122,7 +122,7 @@ Researched and wrote a detailed case study on **UPI/Online Payment Fraud**, a cy
 
 ---
 
-## 📋 Submission Checklist
+## Submission Checklist
 
 - [x] README.md with all module summaries and links
 - [x] Project Report (`.pdf` / `.docx`) in `report/` folder
@@ -135,7 +135,7 @@ Researched and wrote a detailed case study on **UPI/Online Payment Fraud**, a cy
 
 ---
 
-## 🔗 Important Links
+## Important Links
 
 -  **Digital Literacy Quiz:** [https://forms.gle/MtrJMMb8FqQG4jD47](https://forms.gle/MtrJMMb8FqQG4jD47)
 -  **Cyber Crime Helpline:** 1930 *(24×7)*
@@ -143,10 +143,10 @@ Researched and wrote a detailed case study on **UPI/Online Payment Fraud**, a cy
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 The full written report covering all five tasks, reflections, and references is available at:
-📂 [`report/Project_Report.pdf`](./report/Project_Report.pdf)
+ [`report/Project_Report.pdf`](./report/Project_Report.pdf)
 
 ---
 
