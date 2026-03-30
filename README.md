@@ -75,37 +75,33 @@ digital-literacy-project/
 
 ##  Module Summaries
 
-### 📌 Task 1 – Digital Literacy Awareness Infographic *(Module 1 | 20 Marks)*
+### Task 1 – Digital Literacy Awareness Infographic *(Module 1 | 20 Marks)*
 Created a one-page visual infographic using **Canva** covering the key pillars of Digital Literacy — including safe internet practices, professional online presence, and useful digital tools for students. The infographic is designed to be shared with batchmates as an awareness resource.
 
 📂 See: [`task-1-presentation/`](./task-1-presentation/)
 
----
 
-### 📌 Task 2 – Student Digital Portfolio *(Module 2 | 20 Marks)*
+### Task 2 – Student Digital Portfolio *(Module 2 | 20 Marks)*
 Set up professional accounts across three platforms: **GitHub**, **LinkedIn**, and **Researchgate**. Each profile has been filled with foundational academic details. This task helped establish a long-term digital presence that can grow alongside my academic and professional journey.
 
 📂 See: [`task-2-portfolio/`](./task-2-portfolio/)
 
----
 
-### 📌 Task 3 – Coding & Collaboration Platforms *(Module 3 | 20 Marks)*
+### Task 3 – Coding & Collaboration Platforms *(Module 3 | 20 Marks)*
 Completed a beginner challenge on **HackerRank** and built a **Digital Literacy Awareness Quiz** using Google Forms to test batchmates on key concepts from this course.
 
 🔗 **Digital Literacy Awareness Quiz (Google Form):** [Take the Quiz](https://forms.gle/MtrJMMb8FqQG4jD47)
 
 📂 See: [`task-3-platforms/`](./task-3-platforms/)
 
----
 
-### 📌 Task 4 – Professional Email & Etiquette Guide *(Module 4 | 20 Marks)*
+### Task 4 – Professional Email & Etiquette Guide *(Module 4 | 20 Marks)*
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing interest in a summer internship. Also created a **Social Media Do's and Don'ts Checklist** for college students.
 
 📂 See: [`task-4-email-etiquette/`](./task-4-email-etiquette/)
 
----
 
-### 📌 Task 5 – Cybercrime Awareness Case Study *(Module 5 | 20 Marks)*
+### Task 5 – Cybercrime Awareness Case Study *(Module 5 | 20 Marks)*
 Researched and wrote a detailed case study on **UPI/Online Payment Fraud**, a cybercrime type highly relevant to college students in India. Also produced a prevention checklist with actionable safety tips including UPI-specific guidance and national reporting channels.
 
 📂 See: [`task-5-cybercrime/`](./task-5-cybercrime/)
@@ -117,11 +113,11 @@ Researched and wrote a detailed case study on **UPI/Online Payment Fraud**, a cy
 | Task | Tool / Platform | Link |
 |---|---|---|
 | Infographic | Canva | [canva.com](https://canva.com) |
-| Portfolio | GitHub | [github.com](https://github.com) |
-| Portfolio | LinkedIn | [linkedin.com](https://linkedin.com) |
+| Portfolio | GitHub | [(https://github.com)](https://github.com/rishirajsinghe) |
+| Portfolio | LinkedIn | [(https://linkedin.com)](https://www.linkedin.com/in/rishirajsinghe/) |
 | Portfolio | ResearchGate | [Researchgate.net](https://www.researchgate.net/) |
 | Coding Practice | HackerRank | [hackerrank.com](https://hackerrank.com) |
-| Quiz | Google Forms | [forms.google.com](https://forms.google.com) |
+| Quiz | Google Forms | [(https://forms.google.com)](https://forms.gle/WfQTQWizhnxbmTC36) |
 | Cybercrime Reporting | Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 
 ---
